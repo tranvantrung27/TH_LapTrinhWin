@@ -1,0 +1,14 @@
+D:\HP_LapTrinhWin\Thuc_Hanh\Lab01-01\Lab01-02\bin\Debug\Lab01-02.exe.config
+D:\HP_LapTrinhWin\Thuc_Hanh\Lab01-01\Lab01-02\bin\Debug\Lab01-02.exe
+D:\HP_LapTrinhWin\Thuc_Hanh\Lab01-01\Lab01-02\bin\Debug\Lab01-02.pdb
+D:\HP_LapTrinhWin\Thuc_Hanh\Lab01-01\Lab01-02\obj\Debug\Lab01-02.csproj.AssemblyReference.cache
+D:\HP_LapTrinhWin\Thuc_Hanh\Lab01-01\Lab01-02\obj\Debug\Lab01-02.csproj.CoreCompileInputs.cache
+D:\HP_LapTrinhWin\Thuc_Hanh\Lab01-01\Lab01-02\obj\Debug\Lab01-02.exe
+D:\HP_LapTrinhWin\Thuc_Hanh\Lab01-01\Lab01-02\obj\Debug\Lab01-02.pdb
+D:\HP_LapTrinhWin\Thuc_Hanh\Buoi1\Lab01-02\bin\Debug\Lab01-02.exe.config
+D:\HP_LapTrinhWin\Thuc_Hanh\Buoi1\Lab01-02\bin\Debug\Lab01-02.exe
+D:\HP_LapTrinhWin\Thuc_Hanh\Buoi1\Lab01-02\bin\Debug\Lab01-02.pdb
+D:\HP_LapTrinhWin\Thuc_Hanh\Buoi1\Lab01-02\obj\Debug\Lab01-02.csproj.AssemblyReference.cache
+D:\HP_LapTrinhWin\Thuc_Hanh\Buoi1\Lab01-02\obj\Debug\Lab01-02.csproj.CoreCompileInputs.cache
+D:\HP_LapTrinhWin\Thuc_Hanh\Buoi1\Lab01-02\obj\Debug\Lab01-02.exe
+D:\HP_LapTrinhWin\Thuc_Hanh\Buoi1\Lab01-02\obj\Debug\Lab01-02.pdb

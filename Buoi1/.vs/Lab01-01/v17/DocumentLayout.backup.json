@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HP_LapTrinhWin\\Thuc_Hanh\\Buoi1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E230D556-B41D-42A9-976E-657450E0199E}|Lab01-01\\Lab01-01.csproj|D:\\HP_LapTrinhWin\\Thuc_Hanh\\Buoi1\\lab01-01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E230D556-B41D-42A9-976E-657450E0199E}|Lab01-01\\Lab01-01.csproj|solutionrelative:lab01-01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11BC296-BA99-4EA3-B137-D711AFE6B5C8}|Lab01-03\\Lab01-03.csproj|D:\\HP_LapTrinhWin\\Thuc_Hanh\\Buoi1\\lab01-03\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11BC296-BA99-4EA3-B137-D711AFE6B5C8}|Lab01-03\\Lab01-03.csproj|solutionrelative:lab01-03\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11BC296-BA99-4EA3-B137-D711AFE6B5C8}|Lab01-03\\Lab01-03.csproj|D:\\HP_LapTrinhWin\\Thuc_Hanh\\Buoi1\\lab01-03\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11BC296-BA99-4EA3-B137-D711AFE6B5C8}|Lab01-03\\Lab01-03.csproj|solutionrelative:lab01-03\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11BC296-BA99-4EA3-B137-D711AFE6B5C8}|Lab01-03\\Lab01-03.csproj|D:\\HP_LapTrinhWin\\Thuc_Hanh\\Buoi1\\lab01-03\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11BC296-BA99-4EA3-B137-D711AFE6B5C8}|Lab01-03\\Lab01-03.csproj|solutionrelative:lab01-03\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11BC296-BA99-4EA3-B137-D711AFE6B5C8}|Lab01-03\\Lab01-03.csproj|d:\\hp_laptrinhwin\\thuc_hanh\\buoi1\\lab01-03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11BC296-BA99-4EA3-B137-D711AFE6B5C8}|Lab01-03\\Lab01-03.csproj|solutionrelative:lab01-03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA81D7CC-FB25-4FDF-93CE-0D17FDA23159}|Lab01-02\\Lab01-02.csproj|D:\\HP_LapTrinhWin\\Thuc_Hanh\\Buoi1\\lab01-02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA81D7CC-FB25-4FDF-93CE-0D17FDA23159}|Lab01-02\\Lab01-02.csproj|solutionrelative:lab01-02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA81D7CC-FB25-4FDF-93CE-0D17FDA23159}|Lab01-02\\Lab01-02.csproj|D:\\HP_LapTrinhWin\\Thuc_Hanh\\Buoi1\\lab01-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA81D7CC-FB25-4FDF-93CE-0D17FDA23159}|Lab01-02\\Lab01-02.csproj|solutionrelative:lab01-02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HP_LapTrinhWin\\Thuc_Hanh\\Buoi1\\Lab01-01\\Program.cs",
+              "RelativeDocumentMoniker": "Lab01-01\\Program.cs",
+              "ToolTip": "D:\\HP_LapTrinhWin\\Thuc_Hanh\\Buoi1\\Lab01-01\\Program.cs",
+              "RelativeToolTip": "Lab01-01\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAIwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:23:24.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\HP_LapTrinhWin\\Thuc_Hanh\\Buoi1\\Lab01-03\\Person.cs",
+              "RelativeDocumentMoniker": "Lab01-03\\Person.cs",
+              "ToolTip": "D:\\HP_LapTrinhWin\\Thuc_Hanh\\Buoi1\\Lab01-03\\Person.cs",
+              "RelativeToolTip": "Lab01-03\\Person.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA4wCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:15:09.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\HP_LapTrinhWin\\Thuc_Hanh\\Buoi1\\Lab01-03\\Teacher.cs",
+              "RelativeDocumentMoniker": "Lab01-03\\Teacher.cs",
+              "ToolTip": "D:\\HP_LapTrinhWin\\Thuc_Hanh\\Buoi1\\Lab01-03\\Teacher.cs",
+              "RelativeToolTip": "Lab01-03\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:13:39.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\HP_LapTrinhWin\\Thuc_Hanh\\Buoi1\\Lab01-03\\Student.cs",
+              "RelativeDocumentMoniker": "Lab01-03\\Student.cs",
+              "ToolTip": "D:\\HP_LapTrinhWin\\Thuc_Hanh\\Buoi1\\Lab01-03\\Student.cs",
+              "RelativeToolTip": "Lab01-03\\Student.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:13:15.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HP_LapTrinhWin\\Thuc_Hanh\\Buoi1\\Lab01-03\\Program.cs",
+              "RelativeDocumentMoniker": "Lab01-03\\Program.cs",
+              "ToolTip": "D:\\HP_LapTrinhWin\\Thuc_Hanh\\Buoi1\\Lab01-03\\Program.cs",
+              "RelativeToolTip": "Lab01-03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:12:43.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\HP_LapTrinhWin\\Thuc_Hanh\\Buoi1\\Lab01-02\\Student.cs",
+              "RelativeDocumentMoniker": "Lab01-02\\Student.cs",
+              "ToolTip": "D:\\HP_LapTrinhWin\\Thuc_Hanh\\Buoi1\\Lab01-02\\Student.cs",
+              "RelativeToolTip": "Lab01-02\\Student.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA+wDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T05:52:05.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HP_LapTrinhWin\\Thuc_Hanh\\Buoi1\\Lab01-02\\Program.cs",
+              "RelativeDocumentMoniker": "Lab01-02\\Program.cs",
+              "ToolTip": "D:\\HP_LapTrinhWin\\Thuc_Hanh\\Buoi1\\Lab01-02\\Program.cs",
+              "RelativeToolTip": "Lab01-02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T05:51:35.807Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

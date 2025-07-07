@@ -1,0 +1,7 @@
+D:\HP_LapTrinhWin\Thuc_Hanh\Buoi1\Lab01-03\bin\Debug\Lab01-03.exe.config
+D:\HP_LapTrinhWin\Thuc_Hanh\Buoi1\Lab01-03\bin\Debug\Lab01-03.exe
+D:\HP_LapTrinhWin\Thuc_Hanh\Buoi1\Lab01-03\bin\Debug\Lab01-03.pdb
+D:\HP_LapTrinhWin\Thuc_Hanh\Buoi1\Lab01-03\obj\Debug\Lab01-03.csproj.AssemblyReference.cache
+D:\HP_LapTrinhWin\Thuc_Hanh\Buoi1\Lab01-03\obj\Debug\Lab01-03.csproj.CoreCompileInputs.cache
+D:\HP_LapTrinhWin\Thuc_Hanh\Buoi1\Lab01-03\obj\Debug\Lab01-03.exe
+D:\HP_LapTrinhWin\Thuc_Hanh\Buoi1\Lab01-03\obj\Debug\Lab01-03.pdb
