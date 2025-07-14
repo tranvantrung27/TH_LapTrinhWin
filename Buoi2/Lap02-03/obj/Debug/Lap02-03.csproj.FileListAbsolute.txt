@@ -1,0 +1,10 @@
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi2\Lap02-03\bin\Debug\Lap02-03.exe.config
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi2\Lap02-03\bin\Debug\Lap02-03.exe
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi2\Lap02-03\bin\Debug\Lap02-03.pdb
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi2\Lap02-03\obj\Debug\Lap02-03.csproj.AssemblyReference.cache
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi2\Lap02-03\obj\Debug\Lap02_03.Form1.resources
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi2\Lap02-03\obj\Debug\Lap02_03.Properties.Resources.resources
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi2\Lap02-03\obj\Debug\Lap02-03.csproj.GenerateResource.cache
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi2\Lap02-03\obj\Debug\Lap02-03.csproj.CoreCompileInputs.cache
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi2\Lap02-03\obj\Debug\Lap02-03.exe
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi2\Lap02-03\obj\Debug\Lap02-03.pdb
