@@ -1,0 +1,15 @@
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi3\Lap03\bin\Debug\Lap03.exe.config
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi3\Lap03\bin\Debug\Lap03.exe
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi3\Lap03\bin\Debug\Lap03.pdb
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi3\Lap03\bin\Debug\Interop.WMPLib.dll
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi3\Lap03\bin\Debug\AxInterop.WMPLib.dll
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi3\Lap03\obj\Debug\Lap03.csproj.AssemblyReference.cache
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi3\Lap03\obj\Debug\Interop.WMPLib.dll
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi3\Lap03\obj\Debug\AxInterop.WMPLib.dll
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi3\Lap03\obj\Debug\Lap03.csproj.ResolveComReference.cache
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi3\Lap03\obj\Debug\Lap03.Form1.resources
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi3\Lap03\obj\Debug\Lap03.Properties.Resources.resources
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi3\Lap03\obj\Debug\Lap03.csproj.GenerateResource.cache
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi3\Lap03\obj\Debug\Lap03.csproj.CoreCompileInputs.cache
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi3\Lap03\obj\Debug\Lap03.exe
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi3\Lap03\obj\Debug\Lap03.pdb
