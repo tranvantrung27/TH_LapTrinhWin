@@ -118,7 +118,7 @@ Nếu bạn có ý kiến đóng góp hoặc phát hiện lỗi:
 
 ## 📞 Liên hệ
 
-- **📧 Email**: [tranvantrung27@example.com](mailto:tranvantrung27@example.com)
+- **📧 Email**: [trantrung04.contact@gmail.com](mailto:tranvantrung27@example.com)
 - **💬 GitHub**: [@tranvantrung27](https://github.com/tranvantrung27)
 
 ---
