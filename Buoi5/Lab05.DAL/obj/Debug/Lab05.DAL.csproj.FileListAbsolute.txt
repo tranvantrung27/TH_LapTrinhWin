@@ -1,0 +1,12 @@
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi5\Lab05.DAL\obj\Debug\Lab05.DAL.csproj.AssemblyReference.cache
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi5\Lab05.DAL\obj\Debug\Lab05.DAL.csproj.CoreCompileInputs.cache
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi5\Lab05.DAL\bin\Debug\Lab05.DAL.dll.config
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi5\Lab05.DAL\bin\Debug\Lab05.DAL.dll
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi5\Lab05.DAL\bin\Debug\Lab05.DAL.pdb
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi5\Lab05.DAL\bin\Debug\EntityFramework.dll
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi5\Lab05.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi5\Lab05.DAL\bin\Debug\EntityFramework.xml
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi5\Lab05.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi5\Lab05.DAL\obj\Debug\Lab05.DAL.csproj.Up2Date
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi5\Lab05.DAL\obj\Debug\Lab05.DAL.dll
+D:\HP_LapTrinhWin\TH_LapTrinhWin\Buoi5\Lab05.DAL\obj\Debug\Lab05.DAL.pdb
